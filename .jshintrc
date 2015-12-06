@@ -90,6 +90,8 @@
 
     // Custom Globals
     "globals"       : {
-    "atom": false
+    "atom": false,
+		"process": false,
+		"__dirname": false
 	} // additional predefined global variables
 }

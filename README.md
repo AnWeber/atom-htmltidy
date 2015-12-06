@@ -58,3 +58,9 @@ A full list of available Options: [Tidy-HTML5](http://api.html-tidy.org/tidy/qui
 ## License
 
 MIT © Andreas Weber
+
+Credits
+-------
+* [HTML Tidy Library Project](http://tidy.sourceforge.net/)
+* [HTML Tidy for HTML5](http://w3c.github.com/tidy-html5/)
+* [Lauris Vāvere](https://github.com/vavere/htmltidy)
