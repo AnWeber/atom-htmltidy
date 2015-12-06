@@ -53,7 +53,7 @@ Go to Settings → Packages → Atom TidyHtml and set Options
 
 Or, set Setting 'File - Enabled' and create a JSON File in the project folder
 
-A full list of available Options: [HTML Tidy 5](http://api.html-tidy.org/tidy/quickref_5.1.25.html)
+A full list of available Options: [Tidy-HTML5](http://api.html-tidy.org/tidy/quickref_5.1.25.html)
 
 ## License
 
