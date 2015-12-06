@@ -14,12 +14,20 @@ Or, Settings → Install → Search for `atom-htmltidy`
 
 ## Usage
 
-Open the Command Palette and type `atom-htmltidy`.
+Use Keybinding
 
-There's a `Format On Save` option in the settings.
+```
+ctrl-alt-1
+```
+
+There's a `Auto Format` option in the settings to activate format on save for html files.
+
+Open the Command Palette and type `atom-htmltidy`.
 
 
 ## Config
+
+Please provide a options for HTML Tidy 5 to format a file.
 
 Go to Settings → Packages → Atom TidyHtml and set Options
 
@@ -49,4 +57,4 @@ A full list of available Options: [HTML Tidy 5](http://api.html-tidy.org/tidy/qu
 
 ## License
 
-MIT © [Andreas Wber](weber.andreas@gmail.com)
+MIT © Andreas Weber

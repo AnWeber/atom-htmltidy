@@ -1,10 +1,10 @@
 {
   "name": "atom-htmltidy",
   "main": "./lib/init",
-  "version": "0.0.0",
-  "description": "Format HTML using Tidy HTML",
+  "version": "0.0.1",
+  "description": "Format HTML using Tidy HTML 5",
   "keywords": [],
-  "repository": "https://github.com/atom/html-tidy",
+  "repository": "https://github.com/AnWeber/atom-htmltidy",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
