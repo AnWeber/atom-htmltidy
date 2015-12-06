@@ -1,7 +1,7 @@
 {
   "name": "atom-htmltidy",
   "main": "./lib/init",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Format HTML using Tidy HTML 5",
   "keywords": [],
   "repository": "https://github.com/AnWeber/atom-htmltidy",
