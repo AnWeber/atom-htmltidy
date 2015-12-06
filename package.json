@@ -1,0 +1,21 @@
+{
+  "name": "atom-htmltidy",
+  "main": "./lib/init",
+  "version": "0.0.0",
+  "description": "Format HTML using Tidy HTML",
+  "keywords": [],
+  "repository": "https://github.com/atom/html-tidy",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "activationCommands": {
+    "atom-workspace": [
+      "core:save",
+      "atom-htmltidy:format"
+    ]
+  },
+  "dependencies": {
+    "htmltidy": "0.0.6"
+  }
+}
