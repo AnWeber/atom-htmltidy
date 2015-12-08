@@ -33,22 +33,27 @@ Go to Settings → Packages → Atom TidyHtml and set Options
 
 ```
 {
-	"indent" : "auto",
-	"indent-spaces" : 2,
-	"indent-with-tabs": true,
-	"wrap" : 72,
-	"markup" : true,
-	"output-xml" : true,
-	"input-xml" : true,
-	"show-warnings" : true,
-	"numeric-entities" : true,
-	"quote-marks" : false,
-	"quote-nbsp" : false,
-	"quote-ampersand" : false,
-	"break-before-br" : false,
-	"uppercase-tags" : false,
-	"uppercase-attributes" : false,
+
+    "markup" : true,
+    "output-xml" : false,
+    "input-xml" : true,
+    "show-warnings" : true,
+    "numeric-entities" : false,
+    "quote-marks" : false,
+    "quote-nbsp" : true,
+    "quote-ampersand" : false,
+    "break-before-br" : false,
+		"preserve-entities": true,
+    "uppercase-tags" : false,
+    "uppercase-attributes" : false,
+
+		"indent" : "auto",
+    "indent-with-tabs": false,
+		"indent-attributes": true,
+		"sort-attributes": "alpha",
+    "wrap" : 80
 }
+
 ```
 
 Or, set Setting 'File - Enabled' and create a JSON File in the project folder
