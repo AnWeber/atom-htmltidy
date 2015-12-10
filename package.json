@@ -16,6 +16,15 @@
     ]
   },
   "dependencies": {
-    "htmltidy": "0.0.6"
-  }
+    "htmltidy": "0.0.6",
+    "lodash": "^3.10.1"
+  },
+  "keywords": [
+    "html",
+    "format",
+    "beautify",
+    "prettify",
+    "style",
+    "tidy"
+  ],
 }
