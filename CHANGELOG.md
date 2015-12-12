@@ -1,3 +1,7 @@
+## 1.5.0 - better documentation
+
+## 1.4.0 - no features
+
 ## 1.3.0 - additional options
 * warn notification if tag count changed (setting)
 * auto generate option new-blocklevel-tags for tag containing '-': e.g angular ui bootstrap uib-alert
