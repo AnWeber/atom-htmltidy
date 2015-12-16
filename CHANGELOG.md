@@ -1,3 +1,5 @@
+## 1.6.0 - changed file permission on tidy exe on linux and mac
+
 ## 1.5.0 - better documentation
 
 ## 1.4.0 - no features
