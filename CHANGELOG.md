@@ -1,3 +1,5 @@
+## 1.7.0 - no automatic save on CTRL+ALT+1
+
 ## 1.6.0 - changed file permission on tidy exe on linux and mac
 
 ## 1.5.0 - better documentation
