@@ -1,7 +1,7 @@
 {
   "name": "atom-htmltidy",
   "main": "./lib/init",
-  "version": "1.6.0",
+  "version": "1.7.0",
   "description": "Format HTML using Tidy HTML 5",
   "keywords": [
     "html",
@@ -22,7 +22,9 @@
       "atom-htmltidy:format"
     ]
   },
-	"activationHooks": ["language-html:grammar-used"],
+  "activationHooks": [
+    "language-html:grammar-used"
+  ],
   "dependencies": {
     "htmltidy": "0.0.6",
     "lodash": "^3.10.1"
