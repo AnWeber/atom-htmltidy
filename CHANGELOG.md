@@ -1,3 +1,5 @@
+## 1.8.0 - settings under linux are visible
+
 ## 1.7.0 - no automatic save on CTRL+ALT+1
 
 ## 1.6.0 - changed file permission on tidy exe on linux and mac
