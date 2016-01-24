@@ -16,15 +16,6 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "activationCommands": {
-    "atom-workspace": [
-      "core:save",
-      "atom-htmltidy:format"
-    ]
-  },
-  "activationHooks": [
-    "language-html:grammar-used"
-  ],
   "dependencies": {
     "htmltidy": "0.0.6",
     "lodash": "^3.10.1"
