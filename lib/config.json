@@ -1,0 +1,50 @@
+{
+	"enableDynamicTags" : {
+		"title" : "dynamic new-blocklevel-tags",
+		"description" : "all tags with '-' separator will be added to new-blocklevel-tags. e.g angular bootstrap: uib-alert",
+		"type" : "boolean",
+		"default" : false
+	},
+	"enableDynamicBody" : {
+		"title" : "dynamic show-body-only",
+		"description" : "set show-body-only true if no body tag exists",
+		"type" : "boolean",
+		"default" : false
+	},
+	"formatOnSave" : {
+		"title" : "format on save",
+		"description" : "format html document on save",
+		"type" : "boolean",
+		"default" : true
+	},
+	"fileSearchEnabled" : {
+		"title" : "enable file search",
+		"description" : "enable search for tidy html 5 options file",
+		"type" : "boolean",
+		"default" : true
+	},
+	"fileSearchFilename" : {
+		"title" : "filename of tidy html 5 options",
+		"description" : "filename of tidy html 5 options",
+		"type" : "string",
+		"default" : ".htmltidy"
+	},
+	"optionsTidy" : {
+		"title" : "default options",
+		"description" : "default options for Tidy HTML 5",
+		"type" : "string",
+		"default" : ""
+	},
+	"secureTagCount" : {
+		"title" : "warn on tag count change",
+		"description" : "show warning if tag count is changed",
+		"type" : "boolean",
+		"default" : false
+	},
+	"tidyExecPath" : {
+		"title" : "path to tidy executable",
+		"description" : "path to external tidy executable",
+		"type" : "string",
+		"default" : ""
+	}
+}
