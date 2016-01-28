@@ -17,6 +17,12 @@
 		"type" : "boolean",
 		"default" : true
 	},
+	"enableLinter" : {
+		"title" : "enable html linter",
+		"description" : "lint html files with tidy html",
+		"type" : "boolean",
+		"default" : true
+	},
 	"fileSearchEnabled" : {
 		"title" : "enable file search",
 		"description" : "enable search for tidy html 5 options file",

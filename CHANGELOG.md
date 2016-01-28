@@ -1,3 +1,9 @@
+## 2.1.0
+* linting of html files
+* new config enable linter, to disable linting
+* new config showErrors, to always enable errors
+* new config grammarScopes: grammars the plugin gets enabled,
+
 ## 2.0.0
 * rewrite the source to use ES6 classes
 * no update of destroyed editors (issue #6)
