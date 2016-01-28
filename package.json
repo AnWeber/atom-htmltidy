@@ -27,5 +27,11 @@
   "dependencies": {
     "htmltidy": "0.0.6",
     "lodash": "^3.10.1"
-  }
+  },
+  "devDependencies": {
+    "jsdoc": "^3.4.0"
+  },
+	"scripts":{
+		"start": "jsdoc lib -r -d doc"
+	}
 }
