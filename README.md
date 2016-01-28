@@ -1,6 +1,6 @@
 # atom-htmltidy
 
-Beautify HTML using [Tidy-HTML5](http://www.htacg.org/tidy-html5/)
+Lint and Format HTML using [Tidy-HTML5](http://www.htacg.org/tidy-html5/)
 
 ## Install
 
@@ -46,6 +46,12 @@ if the tag count change during formatting, a warn notification gets displayed. t
 * **path to tidy executable**:
 the package has a builtin version of tidy html 5 (v5.1.25). if you want to use a newer version, this is your setting.
 *default: none*
+* **show errors**:
+automatically set show-errors to 6 if no option is provided
+*default: enabled*
+* **grammer scopes**:
+array of grammar scopes on which formatting and linting gets activated
+*default: angular, basic, erb, gohtml, jsp, mustache, handlebars, ruby, php *
 
 Please provide tidy html 5 options. I don't recommend using empty options. I use this options in an angularjs project.
 ```

@@ -2,11 +2,12 @@
   "name": "atom-htmltidy",
   "main": "./lib/init",
   "version": "2.0.0",
-  "description": "Format HTML using Tidy HTML 5",
+  "description": "Lint and Format HTML using Tidy HTML 5",
   "keywords": [
     "html",
     "format",
     "beautify",
+		"linter",
     "prettify",
     "style",
     "tidy"
@@ -15,6 +16,13 @@
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
+  },
+  "providedServices": {
+    "linter": {
+      "versions": {
+        "1.0.0": "provideLinter"
+      }
+    }
   },
   "dependencies": {
     "htmltidy": "0.0.6",
