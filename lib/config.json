@@ -11,6 +11,12 @@
 		"type" : "boolean",
 		"default" : false
 	},
+	"enableShowErrors" : {
+		"title" : "show errors",
+		"description" : "always show error",
+		"type" : "boolean",
+		"default" : true
+	},
 	"formatOnSave" : {
 		"title" : "format on save",
 		"description" : "format html document on save",
