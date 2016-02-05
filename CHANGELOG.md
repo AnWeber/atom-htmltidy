@@ -1,4 +1,7 @@
-## 2.1.0
+## 2.3.0
+* no empty new-blocklevel-tags option if enableDynamicTags setting is enabled
+
+## 2.2.0
 * linting of html files
 * new config enable linter, to disable linting
 * new config showErrors, to always enable errors
