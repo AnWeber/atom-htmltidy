@@ -1,7 +1,7 @@
 {
   "name": "atom-htmltidy",
   "main": "./lib/init",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "description": "Lint and Format HTML using Tidy HTML 5",
   "keywords": [
     "html",
@@ -31,7 +31,7 @@
   "devDependencies": {
     "jsdoc": "^3.4.0"
   },
-	"scripts":{
-		"start": "jsdoc lib -r -d doc"
-	}
+  "scripts": {
+    "start": "jsdoc lib -r -d doc"
+  }
 }
