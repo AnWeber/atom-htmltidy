@@ -1,7 +1,7 @@
 {
   "name": "atom-htmltidy",
   "main": "./lib/init",
-  "version": "4.0.0",
+  "version": "3.0.0",
   "description": "Lint and Format HTML using Tidy HTML 5",
   "keywords": [
     "html",
