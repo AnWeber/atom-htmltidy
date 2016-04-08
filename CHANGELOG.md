@@ -1,3 +1,6 @@
+## 3.0.0
+* update to htmltidy 5.2.0
+
 ## 2.3.0
 * no empty new-blocklevel-tags option if enableDynamicTags setting is enabled
 
