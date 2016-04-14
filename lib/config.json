@@ -46,15 +46,16 @@
 		"description": "the supported grammar scopes",
 		"type": "array",
 		"default":  [
-		  "angular",
-		  "basic",
-		  "erb",
-		  "gohtml",
-		  "jsp",
-		  "mustache",
-		  "handlebars",
-		  "ruby",
-		  "php"
+		  "text.html.angular",
+		  "text.html.basic",
+		  "text.html.erb",
+		  "text.html.gohtml",
+		  "text.html.jsp",
+		  "text.html.mustache",
+		  "text.html.handlebars",
+		  "text.html.ruby",
+		  "text.html.php",
+		  "text.xml"
 		],
 		"items": {
 			"type": "string"

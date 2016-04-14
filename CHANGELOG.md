@@ -1,4 +1,7 @@
-## 3.0.0
+## 5.1.0
+* addad grammar text.xml
+
+## 5.0.0
 * update to htmltidy 5.2.0
 
 ## 2.3.0
