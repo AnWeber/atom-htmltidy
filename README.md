@@ -1,3 +1,6 @@
+# NO ACTIVE DEVELOPMENT 
+Sorry, this extension is out of business. It has errors on linux system and I need to setup a new linux vm. Maybe it is working on win systems but I switched to vs code as default editor and got no time to continue developing this extension. If someone got time to develop this extension, feel free to use the sources.
+
 # atom-htmltidy
 
 Lint and Format HTML using [Tidy-HTML5](http://www.htacg.org/tidy-html5/)
